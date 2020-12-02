@@ -38,7 +38,7 @@ Jupyer: cancel "!unzip gym-Didi.zip" and use just "!pip install -e /your_path/gy
                 ani" at the end of the main.
 
 
-I developed this project with the help of two colleagues. If you need any help, contact us: 
+If you want more information, contact us: 
 vanessa.staderini@gmail.com 
 tommaso3d@gmail.com 
 95vittoriar@gmail.com
