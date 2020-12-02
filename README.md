@@ -37,6 +37,7 @@ Jupyer: cancel "!unzip gym-Didi.zip" and use just "!pip install -e /your_path/gy
         Cancel "import seaborn.apionly as sns" and the "ani = matplotlib.animation.FuncAnimation(fig, update, frames = len(frames), interval = 1000, repeat = True)
                 ani" at the end of the main.
 
+
 I developed this project with the help of two colleagues. If you need any help, contact us: 
 vanessa.staderini@gmail.com 
 tommaso3d@gmail.com 
