@@ -29,3 +29,11 @@ The reward depends on the action
 -1 for each allowed action
 -10 if drop off or pick up are executed in wrong nodes
 +1000 if the Didi drops off the passengerse in the correct dest_node.
+
+
+A more complex problem was solved with Deep Reinforcement Learning, check out my repositories for more informations.
+
+I developed this project with the help of two colleagues. If you need any help, contact us: 
+vanessa.staderini@gmail.com 
+tommaso3d@gmail.com 
+95vittoriar@gmail.com
